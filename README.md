@@ -1,5 +1,7 @@
 # Hi, I’m RuGrantez
 
+But some people know me by my old handle Ruguevara.
+
 I build tools for retrocomputing and demoscene—mostly in C++ and Python. I like making old hardware (ZX Spectrum preferably) do interesting things and giving myself and other people better tools to work with it.
 
 Some things I’m building:
